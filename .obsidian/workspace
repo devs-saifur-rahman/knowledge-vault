@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e1fdc345164937ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2728a2eb8cdebbd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Readme.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ca0f44716386f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c3386665daae991",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "449034a948504e23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea363fe5a4731dbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72bc2b70d81148b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1bb4f8e1e7b52b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87f0725ce8b4e8f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 163,
+    "collapsed": true
+  },
+  "active": "b2728a2eb8cdebbd",
+  "lastOpenFiles": [
+    "Readme.md",
+    "Authentication/Enosis Goals.md",
+    "Authentication/Authentication.md",
+    "Authentication/Required DB tables.md",
+    "Authentication/Oauth.md",
+    "Prometheus / Grafana - basic - linux (MC).md",
+    "Authentication/OpenID Connect.md",
+    "Monitoring tool/pricing_data_freshness.collector.yml.md",
+    "Monitoring tool/Prometheus.md",
+    "Monitoring tool/Monitoring tool.md"
+  ]
+}
